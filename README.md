@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [john-is.online/blog](john-is.online/blog)
 
-- 💬 Ask me about **Next.js 13**
+- 💬 Ask me about why I am so excited about **Next.js 13**
 
 - 📫 How to reach me **john@john-is.online**
 
