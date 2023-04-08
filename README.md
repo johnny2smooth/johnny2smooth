@@ -8,7 +8,7 @@
 
 - 🏗 I’m currently building [a digital art 🖼 gallery comprised of my friends' works which are enhanced by Stable Diffusion 🦾](john-is.online)
 
-- 🌱 I’m currently learning about **React Server Components 📮 + TypeScript wizardry 🧙🏼‍♂️**
+- 🌱 I’m learning about **React Server Components 📮 + TypeScript wizardry 🧙🏼‍♂️**
 
 - ⏳ I’m accelerating the time that it takes for my team to [transcribe post-treatment interviews with patients who use our Tuberculosis Treatment Companion web app](john-is.online/projects/whisper)
 
