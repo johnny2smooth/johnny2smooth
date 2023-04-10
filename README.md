@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John B. Peterson</h1>
+<h1 align="center">Hi 👋, I'm John Bradley Peterson</h1>
 <h3 align="center">A curiosity-driven frontend developer from Seattle, dedicated to harnessing bleeding-edge software and tapping into shared GPU resources to accelerate AI-powered innovation.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
