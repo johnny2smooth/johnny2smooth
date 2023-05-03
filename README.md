@@ -8,21 +8,15 @@
 
 - 🏗 I’m currently building [a digital art 🖼 gallery comprised of my friends' works which are enhanced by Stable Diffusion 🦾](john-is.online)
 
-- 🌱 I’m learning about **React Server Components 📮 + TypeScript wizardry 🧙🏼‍♂️**
+- 🌱 I’m learning about **React Server Components 📮 + TypeScript 🧙🏼‍♂️**
 
 - ⏳ I’m accelerating the time that it takes for my team to [transcribe post-treatment interviews with patients who use our Tuberculosis Treatment Companion web app](john-is.online/projects/whisper)
 
-- 🎞 I'm filming short-form content [about what I am currently working on](john-is.online/videos)
-
 - 👨‍💻 All of my projects are available at [john-is.online](john-is.online)
-
-- 📝 I regularly write articles on [john-is.online/blog](john-is.online/blog)
 
 - 💬 Ask me about why I am so excited about **Next.js 13**
 
 - 📫 How to reach me **john@john-is.online**
-
-- 📄 Know about my experiences [john-peterson.dev/resume](john-peterson.dev/resume)
 
 - ⚡ Fun fact: **I have talked with Rupi Kaur on FaceTime**
 
